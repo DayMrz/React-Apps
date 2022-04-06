@@ -1,0 +1,9 @@
+.Dog {
+  background-color: hsl(210, 90%, 47%);
+}
+
+.Dog-img {
+  border: 1em solid hsl(45, 100%, 50%);
+  border-radius: 10px;
+  width: 10em;
+}
